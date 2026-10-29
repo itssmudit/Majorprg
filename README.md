@@ -4,6 +4,7 @@ IILM University, Greater Noida.
 B.Tech CSE Major Project
 
 Team: Mudit Kumar Pal, Jitender Kumar, Amitesh Kumar, Akash Kumar. 
+
 Guide: Mr Amul Tiwary.
 
 Five simulated hospitals train a shared model with Federated Averaging (FedAvg), without sharing
